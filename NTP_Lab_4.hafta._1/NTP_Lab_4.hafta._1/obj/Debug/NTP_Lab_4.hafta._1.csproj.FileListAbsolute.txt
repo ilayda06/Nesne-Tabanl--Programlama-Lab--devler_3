@@ -1,0 +1,7 @@
+C:\Users\canil\source\repos\NTP_Lab_4.hafta._1\NTP_Lab_4.hafta._1\bin\Debug\NTP_Lab_4.hafta._1.exe.config
+C:\Users\canil\source\repos\NTP_Lab_4.hafta._1\NTP_Lab_4.hafta._1\bin\Debug\NTP_Lab_4.hafta._1.exe
+C:\Users\canil\source\repos\NTP_Lab_4.hafta._1\NTP_Lab_4.hafta._1\bin\Debug\NTP_Lab_4.hafta._1.pdb
+C:\Users\canil\source\repos\NTP_Lab_4.hafta._1\NTP_Lab_4.hafta._1\obj\Debug\NTP_Lab_4.hafta._1.csprojAssemblyReference.cache
+C:\Users\canil\source\repos\NTP_Lab_4.hafta._1\NTP_Lab_4.hafta._1\obj\Debug\NTP_Lab_4.hafta._1.csproj.CoreCompileInputs.cache
+C:\Users\canil\source\repos\NTP_Lab_4.hafta._1\NTP_Lab_4.hafta._1\obj\Debug\NTP_Lab_4.hafta._1.exe
+C:\Users\canil\source\repos\NTP_Lab_4.hafta._1\NTP_Lab_4.hafta._1\obj\Debug\NTP_Lab_4.hafta._1.pdb

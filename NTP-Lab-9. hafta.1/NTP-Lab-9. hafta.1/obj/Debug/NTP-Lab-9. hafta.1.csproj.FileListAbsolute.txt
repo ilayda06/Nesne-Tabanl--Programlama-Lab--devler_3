@@ -1,0 +1,7 @@
+C:\Users\canil\source\repos\NTP-Lab-9. hafta.1\NTP-Lab-9. hafta.1\bin\Debug\NTP_Lab_9.hafta._1.exe.config
+C:\Users\canil\source\repos\NTP-Lab-9. hafta.1\NTP-Lab-9. hafta.1\bin\Debug\NTP_Lab_9.hafta._1.exe
+C:\Users\canil\source\repos\NTP-Lab-9. hafta.1\NTP-Lab-9. hafta.1\bin\Debug\NTP_Lab_9.hafta._1.pdb
+C:\Users\canil\source\repos\NTP-Lab-9. hafta.1\NTP-Lab-9. hafta.1\obj\Debug\NTP-Lab-9. hafta.1.csprojAssemblyReference.cache
+C:\Users\canil\source\repos\NTP-Lab-9. hafta.1\NTP-Lab-9. hafta.1\obj\Debug\NTP-Lab-9. hafta.1.csproj.CoreCompileInputs.cache
+C:\Users\canil\source\repos\NTP-Lab-9. hafta.1\NTP-Lab-9. hafta.1\obj\Debug\NTP_Lab_9.hafta._1.exe
+C:\Users\canil\source\repos\NTP-Lab-9. hafta.1\NTP-Lab-9. hafta.1\obj\Debug\NTP_Lab_9.hafta._1.pdb

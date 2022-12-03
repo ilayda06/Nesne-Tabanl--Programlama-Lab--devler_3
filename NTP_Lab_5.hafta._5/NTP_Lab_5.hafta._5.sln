@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTP_Lab_5.hafta._5", "NTP_Lab_5.hafta._5\NTP_Lab_5.hafta._5.csproj", "{D1492E43-A23C-47ED-B09C-AA0551B4A43F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1492E43-A23C-47ED-B09C-AA0551B4A43F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1492E43-A23C-47ED-B09C-AA0551B4A43F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1492E43-A23C-47ED-B09C-AA0551B4A43F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1492E43-A23C-47ED-B09C-AA0551B4A43F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFCE8D13-C693-47BA-AF71-0142CD4C08E2}
+	EndGlobalSection
+EndGlobal
